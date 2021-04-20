@@ -62,6 +62,8 @@
 
 ## Result
 ---
+![gif sensoren](https://user-images.githubusercontent.com/77990847/115442481-58ed7480-a212-11eb-8487-38d1877bb659.gif)
+
 <img width="1262" alt="image" src="https://user-images.githubusercontent.com/77990847/115441836-9ac9eb00-a211-11eb-9bd8-b6c62f21c02b.png">
 
 <img width="1251" alt="image" src="https://user-images.githubusercontent.com/77990847/115442146-f6947400-a211-11eb-8d14-321b039f1290.png">
