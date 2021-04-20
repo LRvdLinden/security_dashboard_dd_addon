@@ -38,8 +38,7 @@
 ---
 - Make sure you have installed [Alarm Control Panel](https://www.home-assistant.io/integrations/manual), [Alarm Control Panel Card](https://www.home-assistant.io/lovelace/alarm-panel) and [fontawesome icons](https://github.com/thomasloven/hass-fontawesome). This can be done manually or directly via hacs.
 
-<img width="320" alt="image" src="https://user-images.githubusercontent.com/77990847/115149848-361e5d00-a066-11eb-9793-01992418ba40.png">
-
+<img width="320" alt="image" src="https://user-images.githubusercontent.com/77990847/115438802-1cb81500-a20e-11eb-92f5-02fc2154f570.png">
 
 
 ## Installation Add-on
