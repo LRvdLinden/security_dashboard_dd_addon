@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/discord/688401603811999885" />
   </a>
 </p>
-<p align="center">Climate Dashboard in Home Assistant Dwains Dashboard.</p>
+<p align="center">Security Dashboard in Home Assistant Dwains Dashboard.</p>
 
 
 <p align="center">Created by <a href="https://github.com/LRvdLinden">Léon van der Linden</a>
@@ -36,7 +36,7 @@
 
 ## Prerequisite
 ---
-- Make sure you have installed the lovelace [mini-graph-card](https://github.com/kalkih/mini-graph-card), [fontawesome icons](https://github.com/thomasloven/hass-fontawesome), and [Button Card](https://github.com/custom-cards/button-card). This can be done manually or directly via hacs.
+- Make sure you have installed [Alarm Control Panel](https://www.home-assistant.io/integrations/manual), [Alarm Control Panel Card](https://www.home-assistant.io/lovelace/alarm-panel) and [fontawesome icons](https://github.com/thomasloven/hass-fontawesome). This can be done manually or directly via hacs.
 
 <img width="320" alt="image" src="https://user-images.githubusercontent.com/77990847/115149848-361e5d00-a066-11eb-9793-01992418ba40.png">
 
@@ -44,13 +44,13 @@
 
 ## Installation Add-on
 ---
-- Copy the `climate_dashboard` folder in to the `dwains-dashboard/addons/more_page` directory.
+- Copy the `security_dashboard` folder in to the `dwains-dashboard/addons/more_page` directory.
 - Open your `more_page.yaml` file in `dwains-dashboard/configs` and add the following;
 ```yaml
- - name: Climate Dashboard
-   icon: mdi:home-thermometer-outline
-   #main_menu: 'true' #Show this addon in the main navigation bar!
-   path: 'dwains-dashboard/addons/more_page/climate_dashboard/page.yaml'
+ - name: Security Dashboard
+   icon: mdi:shield-check-outline
+   main_menu: 'true' #Show this addon in the main navigation bar!
+   path: 'dwains-dashboard/addons/more_page/security_dashboard/page.yaml'
 ```
 - Reload the theme configuration via Theme Settings
 
